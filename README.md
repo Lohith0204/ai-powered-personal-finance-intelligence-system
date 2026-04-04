@@ -2,6 +2,13 @@
 
 **Automated Budgeting, Machine Learning Categorization, and Smart Financial Analytics**
 
+## Live Deployment
+
+| Service | URL |
+|---|---|
+| 🚀 Frontend (Vercel) | [ai-powered-personal-finance-intelli.vercel.app](https://ai-powered-personal-finance-intelli.vercel.app) |
+| ⚙️ Backend API (Render) | [ai-powered-personal-finance-intelligence.onrender.com](https://ai-powered-personal-finance-intelligence.onrender.com) |
+
 ## Overview
 
 **AI-Powered Personal Finance Intelligence System** is a full-stack, production-ready application designed to transform messy bank statements into actionable financial insights. 
